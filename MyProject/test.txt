@@ -5,3 +5,6 @@ This change is only for testing the branch.
 
 
 This line was changed again on master
+
+This is the same line changed on test-branch
+
