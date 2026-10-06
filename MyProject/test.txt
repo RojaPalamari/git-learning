@@ -9,4 +9,3 @@ This is the same line changed on test-branch
 
 Learning Git diff command
 
-This is my amend practice
