@@ -9,3 +9,5 @@ This line was changed again on master
 This is the same line changed on test-branch
 
 Learning Git diff command
+
+This change I want to remove
